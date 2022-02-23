@@ -1,2 +1,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Ruluko&display=swap');
 
+.navbar-resort{
+    background-color: darkblue;
+    height: 10vh;
+    justify-content: space-between;
+}
+.navbar .navbar-brand{
+    color: brown;
+}
+ navbar-collapse{
+    align-content: center;
+    border: 2px solid white;
+}
+.nav-link{
+    color: darkgoldenrod;
+}
